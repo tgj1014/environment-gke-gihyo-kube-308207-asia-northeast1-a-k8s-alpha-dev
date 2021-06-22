@@ -1,0 +1,10 @@
+adminUser:
+  password: local:k8s-alpha/adminUser:password
+  username: tgj1013
+enableDocker: false
+pipelineUser:
+  email: tgj1014@gmail.com
+  token: local:k8s-alpha/pipelineUser:token
+  username: tgj1014
+prow:
+  hmacToken: local:k8s-alpha/prow:hmacToken
